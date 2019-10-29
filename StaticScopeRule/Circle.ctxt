@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Circle
+comment1.params=x\ y\ r
+comment1.target=Circle(double,\ double,\ double)
+comment2.params=r
+comment2.target=Circle(double)
+comment3.params=c
+comment3.target=Circle(Circle)
+comment4.params=
+comment4.target=Circle()
+comment5.params=
+comment5.target=double\ circumference()
+comment6.params=
+comment6.target=double\ area()
+comment7.params=c
+comment7.target=Circle\ bigger(Circle)
+comment8.params=a\ b
+comment8.target=Circle\ bigger(Circle,\ Circle)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

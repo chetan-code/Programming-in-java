@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RecursiveFactorial
+comment0.text=\r\n\ Example\ of\ factorial\ calculation\ using\ recursion\r\n\ Recursion\ is\ a\ process\ in\ which\ a\ method\ calls\ itself\ constinuosly\r\n\ @author\ -\ Chetan\ Sharma\r\n
+comment1.params=n
+comment1.target=int\ factorial(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
