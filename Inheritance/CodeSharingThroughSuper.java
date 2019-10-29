@@ -1,6 +1,6 @@
 // code sharing throught super concept
 //the method of subclass will override the method of super if the name is SAME!
-//example of runtime polymorphism
+//example of runtime polymorphism - method with saqme name with diff function
 class CodeSharingThroughSuper{
     public static void main(String args []){
         Tiger tiger = new Tiger();
