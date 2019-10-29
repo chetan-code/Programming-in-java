@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FinalMethod
+comment0.text=\r\n\ An\ example\ of\ an\ abstract\ class\ with\ final\ method\r\n\ if\ a\ method\ declare\ final\ we\ cant\ ovveride\ that\ method\r\n\ final\ methods\ are\ declared\ an\ implmented\ only\ once\ -->\ no\ change\ possible\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

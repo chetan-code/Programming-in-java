@@ -1,7 +1,7 @@
 
 /**
- * An abstract class can have abtsract as well as non abtract methods
- * 
+ * An abstract class can have abstract as well as non abtract methods
+ * It is not neccessary to implement non abstract methods in derived classes.
  */
 public class AbstractClassWithNonAbstractMethod
 {
@@ -33,6 +33,7 @@ class Derived extends Base{
     //but if we do do - this method will override above fun() method
     //hence base fun() method wont be called.
     void fun(){
+        //super.fun();//<-- we can use this to call the fun() of base class.
       System.out.println("Derived fun() was called");
     }
     

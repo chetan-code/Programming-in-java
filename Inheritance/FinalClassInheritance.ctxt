@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FinalClassInheritance
+comment0.text=\r\n\ Final\ Class\ Inheritance\ example\r\n\ If\ we\ declare\ a\ class\ final\ we\ can't\ inherit\ from\ it.//No\ Inheritance\ is\ possible\r\n\ banjh\ class\ -->\ you\ cant\ extend\ from\ this\ class\ \r\n\ It\ provides\ strict\ restriction\ feature\r\n\ we\ can\ use\ final\ keyword\ for\ class\ ,method\ and\ vars.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
