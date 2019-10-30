@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AnObjectOfInterface
+comment0.text=\r\n\ Here\ we\ attempt\ to\ create\ an\ object\ of\ interface\r\n\ Interface\ just\ like\ an\ abstract\ class\ cant\ be\ instantiated\ \r\n\ We\ can\ declare\ its\ as\ a\ object\ but\ cant\ instantiate;\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

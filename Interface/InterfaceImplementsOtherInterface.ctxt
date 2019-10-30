@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=InterfaceImplementsOtherInterface
+comment0.text=\r\n\ A\ normal\ class\ can\ implement\ an\ interface\ but\ an\ interface\ can't\ implement\ another\ interface\r\n\r\n
+numComments=1
