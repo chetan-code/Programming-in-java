@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.target=SharedConstants
+comment0.text=\r\n\ HERE\ WE\ HAVE\ a\ interface\ in\ another\ folder\r\n\ it\ has\ lost\ of\ constant\ ...which\ many\ class\ can\ access\ by\ implementing\ it\r\n\ this\ explaings\ usefulness\ of\ interfaces\r\n
+numComments=1

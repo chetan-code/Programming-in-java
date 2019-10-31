@@ -19,8 +19,9 @@ interface I{
     //private static final int p = 444;//private NOT ALLOWED - public by default;
     
     //public static void method1();//static methods are not allowed without body(cant override)
+    //public final static void finalMethod();//a method cant be final! Error!
     
-    void method2();//public abstract by default
+    void method2();//public and abstract by default
         
 } 
 

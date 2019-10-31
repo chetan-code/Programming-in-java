@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InterfaceMultipleInheritance
+comment0.text=\r\n\ Using\ interface\ for\ Multiple\ Inheritance\r\n\ Here\ we\ can\ implements\ more\ than\ one\ interface\ in\ a\ class\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

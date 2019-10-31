@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AnotherMultipleInheritanceExample
+comment0.text=\r\n\ We\ can\ inherit\ from\ a\ normal\ class\ using\ (extends)\r\n\ As\ well\ as\ implements\ an\ interface\ with\ it.\r\n\ So\ we\ have\ acess\ to\ the\ super\ class\ well\ as\ interface\ vars\ and\ methods\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
