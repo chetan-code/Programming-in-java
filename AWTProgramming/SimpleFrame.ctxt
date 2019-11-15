@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SimpleFrame
+comment0.text=\r\n\ Application\ window\ toolkit\ help\ us\ create\ GUI\ elements\ with\ various\ \r\n\ componenets\ such\ as\ buttons\ ,\ checkbox\ etc.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
