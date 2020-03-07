@@ -1,6 +1,11 @@
 # Programming-in-java
 <b>code for basic programming in java</b>
 
+<i>IDE used : BlueJ  
+
+Download : https://www.bluej.org/
+</i>
+
 The repo contains all the Java Demonstration Examples from the NPTEL couse -
 
 "Programming in Java" by Prof. Debasis Samanta (IIT Kharagpur).
